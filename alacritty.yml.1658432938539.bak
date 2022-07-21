@@ -172,42 +172,32 @@ font:
   draw_bold_text_with_bright_colors: false
 # Colors (ArcoLinux)
 colors:
-
   # Default colors
   primary:
+    # hard contrast: background = '#1d2021'
     background: '#282828'
-    foreground: '#fdf4c1'
+    # soft contrast: background = '#32302f'
+    foreground: '#3FBF96'
 
   # Normal colors
   normal:
     black: '#282828'
-    red: '#9d0006'
-    green: '#79740e'
-    yellow: '#b57614'
+    red: '#cc241d'
+    green: '#98971a'
+    yellow: '#d79921'
     blue: '#3FBF96'
-    magenta: '#8f3f71'
-    cyan: '#00a7af'
-    white: '#fdf4c1'
+    magenta: '#b16286'
+    cyan: '#689d6a'
+    white: '#a89984'
 
   # Bright colors
   bright:
-    black: '#32302f'
-    red: '#fb4933'
+    black: '#928374'
+    red: '#fb4934'
     green: '#b8bb26'
     yellow: '#fabd2f'
     blue: '#83a598'
     magenta: '#d3869b'
-    cyan: '#3fd7e5'
-    white: '#ffffc8'
-
-  # Dim colors (Optional)
-  dim:
-    black: '#1d2021'
-    red: '#421e1e'
-    green: '#232b0f'
-    yellow: '#4d3b27'
-    blue: '#2b3c44'
-    magenta: '#4e3d45'
-    cyan: '#205161'
-    white: '#f4e8ba'
-theme: Darktooth
+    cyan: '#8ec07c'
+    white: '#ebdbb2'
+theme: Gruvbox-Dark

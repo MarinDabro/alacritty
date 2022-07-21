@@ -172,42 +172,30 @@ font:
   draw_bold_text_with_bright_colors: false
 # Colors (ArcoLinux)
 colors:
-
   # Default colors
   primary:
-    background: '#282828'
-    foreground: '#fdf4c1'
+    background: '#0A0E14'
+    foreground: '#B3B1AD'
 
   # Normal colors
   normal:
-    black: '#282828'
-    red: '#9d0006'
-    green: '#79740e'
-    yellow: '#b57614'
-    blue: '#3FBF96'
-    magenta: '#8f3f71'
-    cyan: '#00a7af'
-    white: '#fdf4c1'
+    black: '#01060E'
+    red: '#EA6C73'
+    green: '#91B362'
+    yellow: '#F9AF4F'
+    blue: '#53BDFA'
+    magenta: '#FAE994'
+    cyan: '#90E1C6'
+    white: '#C7C7C7'
 
   # Bright colors
   bright:
-    black: '#32302f'
-    red: '#fb4933'
-    green: '#b8bb26'
-    yellow: '#fabd2f'
-    blue: '#83a598'
-    magenta: '#d3869b'
-    cyan: '#3fd7e5'
-    white: '#ffffc8'
-
-  # Dim colors (Optional)
-  dim:
-    black: '#1d2021'
-    red: '#421e1e'
-    green: '#232b0f'
-    yellow: '#4d3b27'
-    blue: '#2b3c44'
-    magenta: '#4e3d45'
-    cyan: '#205161'
-    white: '#f4e8ba'
-theme: Darktooth
+    black: '#686868'
+    red: '#F07178'
+    green: '#C2D94C'
+    yellow: '#FFB454'
+    blue: '#59C2FF'
+    magenta: '#FFEE99'
+    cyan: '#95E6CB'
+    white: '#FFFFFF'
+theme: Ayu-Dark
