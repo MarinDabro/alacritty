@@ -117,7 +117,6 @@ font:
     # value specified for the normal font.
     family: "SauceCodePro Nerd Font Mono"
     #family: "Bitstream Vera Sans Mono"
-
     # The `style` can be specified to pick a specific face.
     style: Bold Italic
 
@@ -172,42 +171,30 @@ font:
   draw_bold_text_with_bright_colors: false
 # Colors (ArcoLinux)
 colors:
-
-  # Default colors
+  name: Codeschool (dark)
+  author: Chris Kempson
   primary:
-    background: '#282828'
-    foreground: '#fdf4c1'
-
-  # Normal colors
+    background: "#232c31"
+    foreground: "#9ea7a6"
+  cursor:
+    text: "#232c31"
+    cursor: "#9ea7a6"
   normal:
-    black: '#282828'
-    red: '#9d0006'
-    green: '#79740e'
-    yellow: '#b57614'
-    blue: '#3FBF96'
-    magenta: '#8f3f71'
-    cyan: '#00a7af'
-    white: '#fdf4c1'
-
-  # Bright colors
+    black: "#232c31"
+    red: "#2a5491"
+    green: "#237986"
+    yellow: "#a03b1e"
+    blue: "#484d79"
+    magenta: "#c59820"
+    cyan: "#b02f30"
+    white: "#9ea7a6"
   bright:
-    black: '#32302f'
-    red: '#fb4933'
-    green: '#b8bb26'
-    yellow: '#fabd2f'
-    blue: '#83a598'
-    magenta: '#d3869b'
-    cyan: '#3fd7e5'
-    white: '#ffffc8'
-
-  # Dim colors (Optional)
-  dim:
-    black: '#1d2021'
-    red: '#421e1e'
-    green: '#232b0f'
-    yellow: '#4d3b27'
-    blue: '#2b3c44'
-    magenta: '#4e3d45'
-    cyan: '#205161'
-    white: '#f4e8ba'
-theme: Darktooth
+    black: "#3f4944"
+    red: "#2a5491"
+    green: "#237986"
+    yellow: "#a03b1e"
+    blue: "#484d79"
+    magenta: "#c59820"
+    cyan: "#b02f30"
+    white: "#b5d8f6"
+theme: Codeschool.dark
